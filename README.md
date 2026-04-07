@@ -110,9 +110,8 @@ tubemetrics/
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/suryabhola-da)
+- GitHub: [github.com/yourusername](https://github.com/SuryaBhola)
 
 ---
 
