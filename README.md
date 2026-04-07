@@ -47,9 +47,7 @@ This project demonstrates real-world API integration, data transformation, and f
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your dashboard here)*
-
----
+https://github.com/SuryaBhola/TubeMetrics/blob/main/Screenshot%202026-04-08%20005157.png
 
 ## 📂 Project Structure
 
