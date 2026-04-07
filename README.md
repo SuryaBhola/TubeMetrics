@@ -47,7 +47,7 @@ This project demonstrates real-world API integration, data transformation, and f
 
 ## 📸 Screenshots
 
-[How it looks like](https://github.com/SuryaBhola/TubeMetrics/blob/main/Screenshot%202026-04-08%20005157.png)
+![How it looks like](https://github.com/SuryaBhola/TubeMetrics/blob/main/Screenshot%202026-04-08%20005157.png)
 
 
 ## 📂 Project Structure
@@ -65,7 +65,7 @@ tubemetrics/
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/yourusername/tubemetrics.git
+   git clone https://github.com/suryabhola/tubemetrics.git
    ```
 
 2. Get a free **YouTube Data API v3** key from [Google Cloud Console](https://console.cloud.google.com/)
